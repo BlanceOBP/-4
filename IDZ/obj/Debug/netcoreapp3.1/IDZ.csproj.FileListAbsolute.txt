@@ -1,0 +1,14 @@
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.exe
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.deps.json
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.runtimeconfig.json
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.runtimeconfig.dev.json
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.dll
+C:\Users\vital\source\repos\IDZ\IDZ\bin\Debug\netcoreapp3.1\IDZ.pdb
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.csproj.AssemblyReference.cache
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.AssemblyInfo.cs
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.dll
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.pdb
+C:\Users\vital\source\repos\IDZ\IDZ\obj\Debug\netcoreapp3.1\IDZ.genruntimeconfig.cache
